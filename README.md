@@ -8,6 +8,6 @@
 ### Run the project
 Enter this code on your terminal after installation. 
 
-```sh go run main.go```
+`go run main.go`
 
 🤩
