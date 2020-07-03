@@ -1,8 +1,8 @@
 # HTTP SERVER in Go
 
 ### Installation
-1- Open terminal in your project folder.
-2- Enter this code on your terminal. 
+- Open terminal in your project folder.
+- Enter this code on your terminal. 
 `git clone https://github.com/metecan/http-server-go.git`
 
 ### Running
