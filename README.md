@@ -5,7 +5,7 @@
 - Enter this code on your terminal. 
 `git clone https://github.com/metecan/http-server-go.git`
 
-### Running
+### Run the project
 Enter this code on your terminal after installation. 
 
 `go run main.go`
